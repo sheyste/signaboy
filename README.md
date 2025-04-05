@@ -12,9 +12,6 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 
 `#dohackathon` `#madewithTFJS`
 
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
-
-## [See Demo](https://handsign-tensorflow.vercel.app)
 
 # Installation
 
@@ -31,7 +28,6 @@ git clone https://github.com/syauqy/handsign-tensorflow.git
 ```shell
 # move to the project folder and install all dependencies
 
-cd handsign-tensorflow
 npm install -g yarn
 yarn install
 npx browserslist@latest --update-db
